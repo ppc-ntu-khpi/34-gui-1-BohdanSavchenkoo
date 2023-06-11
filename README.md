@@ -151,9 +151,8 @@ public class SWINGDemo {
     }
 }
 ```
-
-![Screenshot_2.png](..%2F..%2FDownloads%2FScreenshot_2.png)
-![Screenshot_3.png](..%2F..%2FDownloads%2FScreenshot_3.png)
+![Screenshot_2.png](screans%2FScreenshot_2.png)
+![Screenshot_3.png](screans%2FScreenshot_3.png)
 
 
 
